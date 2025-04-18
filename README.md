@@ -13,3 +13,9 @@ This folder contains the figures and is created by Figures.R.
 
 Figures.ods
 This workbook contains the numbers shown in the figures and is also created by Figures.R.
+
+data.csv
+This is a CSV version of the “data” sheet in Figures.ods.
+
+Cobdebook.pdf
+This defines the variables included in data.csv.
